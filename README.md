@@ -1,9 +1,6 @@
 # webflow Service Documentation
 documentation for tracking the webflow service used by the tech team
 
-## Type of Subscription
-`Monthly`
-
 ## Functionality and usage
 - Website design and build
 - CMS service
